@@ -1,4 +1,4 @@
-![Sans titre - 2](https://user-images.githubusercontent.com/85345273/199358378-b5f3fd5c-5915-4299-b8ab-096db74d328c.png)
+![Plan de travail 1](https://user-images.githubusercontent.com/85345273/199358920-719c1f75-ec80-4f1a-aae1-b12d6c5379bc.png)
 
 - 👀 I’m interested in BI, Data Analyst, DevOps, AI/ML & WebDev
 - 🌱 I’m currently learning Big Data & Cloud Computing
