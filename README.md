@@ -1,6 +1,4 @@
-![Hi ! I’m Yassamine-sahl (2)](https://user-images.githubusercontent.com/85345273/199349929-0febc7b2-01fc-4ab3-a941-fa5164e1daa7.png)
-
-
+![Sans titre - 2](https://user-images.githubusercontent.com/85345273/199358378-b5f3fd5c-5915-4299-b8ab-096db74d328c.png)
 
 - 👀 I’m interested in BI, Data Analyst, DevOps, AI/ML & WebDev
 - 🌱 I’m currently learning Big Data & Cloud Computing
